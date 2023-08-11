@@ -1,1 +1,22 @@
 # aula-02
+-1 Cat Inicio (Comando me informou que preciso procurar pela palavra PISTA em maiusculas para obter mais informações)
+-2 Cd Misterio (Comando mudou meu diretorio para a pasta misterios. para eu poder mostrar as informações das pistas ja obtidas)
+-3 Grep Pista (Comando me listou apenas as pistas para que eu não leia todo o arquivo)
+-4 grep Ammabel pessoas (Filtrar nomes para apenas Annabel)
+-5 Cd ruas (ir para diretorio ruas)
+-6 ls (listar ruas)
+-7 head -n 40 Vila_Hart (Ir ate as informaçoes da Primeira Annabel)
+-8 Head -n 179 Vila_Buckingham (Ir ate informaçoes da segunda Annabel)
+-9 cd .. (voltar diretorio anterior)
+-10 cat entrevista 69907 (ver entrevista da segunda Annabel)
+-11 grep L337 automoveis (listar todas as placas que podem ser suspeitas)
+-12 grep L337 -A 5 automoveis( filtrar as placas, com modelos e cor dos carros)
+-13 (analisar os dados e filtrar os suspeitos que condizem)
+-14 Ls (ver infomaçoes do diretorio)
+-15 grep (nome dos suspeitos, no caso o Jeremy Bower e Joe Germuska)
+-16 cd associacoes (ir ao diretorio de assoeciacoes para ver se fazem parte)
+-17 grep Joe AAA (invetigar se faz parte do associação)
+-18 testar todas as associassoes das pistas
+-19 grep Jeremy AAA (investigar se faz parte do grupo)
+-20 testar as demais associassoes das pistas com o nome de Jeremy
+-21 Fim do Misterio, todas as pistas condizem com o Jeremy
