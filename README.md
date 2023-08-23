@@ -19,4 +19,4 @@
 -18 testar todas as associassoes das pistas
 -19 grep Jeremy AAA (investigar se faz parte do grupo)
 -20 testar as demais associassoes das pistas com o nome de Jeremy
--21 Fim do Misterio, todas as pistas condizem com o Jeremy
+-21 Fim do Misterio, todas as pistas condizem com o Jeremy Bower
